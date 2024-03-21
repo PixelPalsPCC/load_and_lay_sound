@@ -1,3 +1,3 @@
-# load_and_lay_sound
+# load_and_play_sound
 
-# https://pixelpalspcc.github.io/load_and_lay_sound
+# https://pixelpalspcc.github.io/load_and_play_sound
